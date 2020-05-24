@@ -1,0 +1,30 @@
+--------   ex aula 015 interrompendo o while -------
+
+066
+crie um programa que leia varios numeors int. O programa só vao parar quando o usuário digitar o valor 000, que é a cindição de parada, no final mostre quantos numeros foram digitados e qual foi a soma entre eles (descondiderando a flag).
+
+067
+Faça um programa que mostre a tabuada de vários num, um de cada vez, para cada valor digitado pelo usuário. O prograna será interrompido quando o número solicitado for negativo.
+
+068
+Faça um programa que leia par ou ímpar com o computador. O jodo só será interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele consquistou no final do jogo.
+
+069
+Crie um programa que leia a idade e sexo de várias pessoas. A cada pessoa cadastrada o programa deverá perguntar se o usuário quer ou não continuar. No final mostre:
+			A) Quantas pessoas tem mais de 18 anos.
+			B) Quantos homens foram cadastrados.
+			C) Quantas mulheres tem menos de 20 anos.
+
+070
+Crie um programa que leia o nome e o preço de vários produtod. O programa deverá perguntar se o usuário vao continiar. No final, mostre:
+			A) Qual é o total gasto na compra.
+			B) Quantos produtos custam mais de R$1000.
+			C) Qual é o nome do produto mais barato.
+
+071
+Crie um programa que simule o funcionamento de um caixa eletrônico. No início pergunte ao usuário qual valor a ser sacado (num int) e o programa informará quantas cédulas de cada valor serão entregues.
+			OBS: Considere que o caixa possui cédulas de
+			R$50, R$20, R$10 e R$1.
+
+
+

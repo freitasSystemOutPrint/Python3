@@ -1,0 +1,5 @@
+n = str('Freitas Malidne Sousa')
+nom = n.split()
+print(nom)
+print(nom[0])
+print(nom[len(nom)-1])
