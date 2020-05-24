@@ -2,6 +2,8 @@ from random import randint
 user = int(input('digite um numero de 0  a 5: '))
 ran = randint(0, 5)
 print(ran)
+
+
 if user == ran:
        print('ACERTOU')
 else:

@@ -27,5 +27,5 @@ brasil3 = dict()
 for c in range(0,3):
     estado3['uf'] = str(input('Unidade Federativa'))
     estado3['sigla'] = str(input('Sigla Estado'   ))
-    brasil3.append(estado3.copy()) #dando erro n sei pq
+    brasil3.update(estado3.copy()) #dando erro n sei pq
     print(brasil3)

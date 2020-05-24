@@ -1,0 +1,2 @@
+#092
+#  Crie um programa que leia nome ano de nascimento e carteira de trabalho, se por acaso a CTPS for diferente de 0, o dicionario recebera também o ano de contratação e o salário. Caucule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.
