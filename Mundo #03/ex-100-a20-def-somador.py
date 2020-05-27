@@ -33,7 +33,7 @@ def sorteia(lista):
         print(f' {n} ', end='', flush=True)
         sleep(0.3)
     print('PRONTO')
-
+    
 
 def somaPar(lista):
     soma = 0
