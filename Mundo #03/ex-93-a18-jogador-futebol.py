@@ -23,17 +23,23 @@ gpartidas = list()
 
 gjogador['nome'] = str(input('Nome do jogador '))
 tot = int(input(f'Quantas partidas {gjogador["nome"]} jogou?'))
+
 for c in range(0, tot):
     gpartidas.append(int(input(f'  Quantos gols na partida {c} ')))
+
 gjogador['gols'] = gpartidas[:]
 gjogador['total'] = sum(gpartidas)
+
 print('-='*30)
 print(gjogador)
 print('-='*30)
+
 for k, v in gjogador.items():
     print(f'O campo {k} tem o valor {v}')
 print('-='*30)
+
 print(f'O jogador {gjogador["nome"]} jogou {len(gjogador["gols"])} partidas')
+
 for i, v in enumerate(gjogador['gols']):
     print(f'   => Na partida {i}, fez {v} gols')
 print(f'Foi um total de {gjogador["total"]} gols')
